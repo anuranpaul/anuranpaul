@@ -2,7 +2,7 @@
 
 #### Design and Development
 
-I'm Anuran Paul, a passionate software developer with diverse skills and expertise in multiple technologies. I enjoy working with various programming languages and frameworks, including C++, Python, Vanilla JavaScript, React, Vue.js, and Spring Boot. I also have experience in machine learning.
+I'm Anuran Paul, a passionate software developer with diverse skills and expertise in multiple technologies. I enjoy working with various programming languages and frameworks, including C++, Python, Vanilla JavaScript, React, Vue.js, and Springboot. I also have experience in machine learning.
 
 Skills: REACT / JS / JAVA / SPRINGBOOT / C++ / PYTHON
 
