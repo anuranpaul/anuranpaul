@@ -10,10 +10,36 @@ With a strong foundation in backend systems and a flair for full-stack developme
 
 ### 💻 Tech Stack
 
-- **Languages:** Java · Go · JavaScript · TypeScript  
-- **Frameworks & Tools:** Spring Boot · Spring Cloud · Spring Security · Spring Data JPA · Kafka · React · Angular  
-- **Databases:** MySQL · PostgreSQL · MongoDB  
+- **Languages:** Java ![Java](https://img.shields.io/badge/Java-blue) · Go ![Go](https://img.shields.io/badge/Go-blue) · JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) · TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-blue)  
+- **Frameworks & Tools:** Spring Boot ![Spring Boot](https://img.shields.io/badge/Spring_Boot-brightgreen) · Spring Cloud · Spring Security · Spring Data JPA · Kafka ![Kafka](https://img.shields.io/badge/Kafka-black) · React ![React](https://img.shields.io/badge/React-blue) · Angular  
+- **Databases:** MySQL ![MySQL](https://img.shields.io/badge/MySQL-blue) · PostgreSQL ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) · MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-green)  
 - **Other Interests:** Machine Learning · Distributed Systems · Developer Tooling  
+
+---
+
+### 🚀 Featured Projects
+
+#### 📦 Grocery Delivery System Microservices  
+![Java](https://img.shields.io/badge/Java-blue) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-brightgreen) ![Kafka](https://img.shields.io/badge/Kafka-black) ![MongoDB](https://img.shields.io/badge/MongoDB-green)  
+A robust microservices-based grocery delivery platform with Spring Boot, Spring Cloud (Eureka), Kafka for messaging, JWT-based auth, MongoDB/MySQL data layers, and centralized API gateway.
+
+🔗 [View Repository](https://github.com/anuranpaul/ZipGroceries)
+
+---
+
+#### 🎮 Game Library (GameHub)  
+![React](https://img.shields.io/badge/React-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-blue) ![Vite](https://img.shields.io/badge/Vite-purple)  
+Explore and filter games by genre, rating, release year, and platform. Built with React, Zustand, Chakra UI, React Query, and Vite.
+
+🔗 [View Repository](https://github.com/anuranpaul/Game-library)
+
+---
+
+#### 🎧 Lofi Music Web App (Harmony Hub)  
+![React](https://img.shields.io/badge/React-blue) ![Redux](https://img.shields.io/badge/Redux-Toolkit-purple)  
+A clean music streaming app with integrated to-do lists and a pomodoro timer, built for better focus and relaxation.
+
+🔗 [View Repository](https://github.com/anuranpaul/Lofi-App)
 
 ---
 
@@ -29,7 +55,7 @@ With a strong foundation in backend systems and a flair for full-stack developme
 
 [<img src='https://raw.githubusercontent.com/dheereshagrwal/colored-icons/98088e796b058a6512edf9b16d33bf6f24843191/svg/github-light.svg' alt='github' height='40'>](https://github.com/anuranpaul)  
 [<img src='https://raw.githubusercontent.com/dheereshagrwal/colored-icons/98088e796b058a6512edf9b16d33bf6f24843191/svg/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anuranpaul/)  
-[<img src='https://raw.githubusercontent.com/dheereshagrwal/colored-icons/98088e796b058a6512edf9b16d33bf6f24843191/svg/twitter-rounded-square.svg' alt='twitter' height='40'>](https://twitter.com/dracomalfoy1303)  
+[<img src='https://raw.githubusercontent.com/dheereshagrwal/colored-icons/98088e796b058a6512edf9b16d33bf6f24843191/svg/twitter-rounded-square.svg' alt='twitter' height='40'>](https://twitter.com/dracomalfoy1303)
 
 ---
 
