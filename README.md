@@ -10,8 +10,8 @@ With a strong foundation in backend systems and a flair for full-stack developme
 
 ### 💻 Tech Stack
 
-- **Languages:** Java ![Java](https://img.shields.io/badge/Java-blue) · Go ![Go](https://img.shields.io/badge/Go-blue) · JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) · TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-blue)  
-- **Frameworks & Tools:** Spring Boot ![Spring Boot](https://img.shields.io/badge/Spring_Boot-brightgreen) · Spring Cloud · Spring Security · Spring Data JPA · Kafka ![Kafka](https://img.shields.io/badge/Kafka-black) · React ![React](https://img.shields.io/badge/React-blue) · Angular  
+- **Languages:** ![Java](https://img.shields.io/badge/Java-blue) · ![Go](https://img.shields.io/badge/Go-blue) · ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) · ![TypeScript](https://img.shields.io/badge/TypeScript-blue)  
+- **Frameworks & Tools:** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-brightgreen) · Spring Cloud · Spring Security · Spring Data JPA · Kafka ![Kafka](https://img.shields.io/badge/Kafka-black) · React ![React](https://img.shields.io/badge/React-blue) · Angular  
 - **Databases:** MySQL ![MySQL](https://img.shields.io/badge/MySQL-blue) · PostgreSQL ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) · MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-green)  
 - **Other Interests:** Machine Learning · Distributed Systems · Developer Tooling  
 
