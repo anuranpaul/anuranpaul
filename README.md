@@ -17,40 +17,6 @@ With a strong foundation in backend systems and a flair for full-stack developme
 
 ---
 
-### 🚀 Featured Projects
-
-#### 📦 Grocery Delivery System Microservices  
-![Java](https://img.shields.io/badge/Java-blue) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-brightgreen) ![Kafka](https://img.shields.io/badge/Kafka-black) ![MongoDB](https://img.shields.io/badge/MongoDB-green)  
-A robust microservices-based grocery delivery platform with Spring Boot, Spring Cloud (Eureka), Kafka for messaging, JWT-based auth, MongoDB/MySQL data layers, and centralized API gateway.
-
-🔗 [View Repository](https://github.com/anuranpaul/ZipGroceries)
-
----
-
-#### 🎮 Game Library (GameHub)  
-![React](https://img.shields.io/badge/React-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-blue) ![Vite](https://img.shields.io/badge/Vite-purple)  
-Explore and filter games by genre, rating, release year, and platform. Built with React, Zustand, Chakra UI, React Query, and Vite.
-
-🔗 [View Repository](https://github.com/anuranpaul/Game-library)
-
----
-
-#### 🎧 Lofi Music Web App (Harmony Hub)  
-![React](https://img.shields.io/badge/React-blue) ![Redux](https://img.shields.io/badge/Redux-Toolkit-purple)  
-A clean music streaming app with integrated to-do lists and a pomodoro timer, built for better focus and relaxation.
-
-🔗 [View Repository](https://github.com/anuranpaul/Lofi-App)
-
----
-
-### 🌱 What I'm Up To
-
-- 🏗️ Building core systems as a **Founding Engineer** at a high-growth startup  
-- 🧠 Exploring modern backend architectures and infrastructure at scale  
-- 🔭 Occasionally tinkering with ML and open-source projects  
-
----
-
 ### 📫 Let's Connect
 
 [<img src='https://raw.githubusercontent.com/dheereshagrwal/colored-icons/98088e796b058a6512edf9b16d33bf6f24843191/svg/github-light.svg' alt='github' height='40'>](https://github.com/anuranpaul)  
